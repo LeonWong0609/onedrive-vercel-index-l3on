@@ -49,7 +49,7 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'house',
+      name: 'typewriter',
       link: 'https://www.l3on.site/',
     },
     {
