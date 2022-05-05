@@ -49,8 +49,8 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'typewriter',
-      link: 'https://www.l3on.site/',
+      name: 'GitHub',
+      link: 'https://github.com/LeonWong0609',
     },
     {
       name: 'Instagram',
