@@ -45,7 +45,7 @@ module.exports = {
   protectedRoutes: ['/Archive', '/Personal'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
-  email: 'wonderboy0609@outlook.com',
+  email: 'mailto:l3on@duck.com',
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
@@ -56,12 +56,8 @@ module.exports = {
       link: 'https://github.com/LeonWong0609',
     },
     {
-      name: 'Instagram',
-      link: 'https://www.instagram.com/wonderboy0609',
-    },
-    {
       name: 'Telegram',
-      link: 'https://t.me/WonderBoy0609',
+      link: 'https://t.me/l3on69',
     },
   ],
 
